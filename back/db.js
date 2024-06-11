@@ -1,15 +1,9 @@
-const { Pool } = require('pg');
+// db.js
+const mongoose = require('mongoose');
 
-const pool = new Pool({
-  user: 'adminaquanima',
-  host: 'localhost',
-  database: 'postgres',
-  password: 'root',
-  port: 5432,
-});
+function connectDB() {
+  return mongoose.connect('mongodb+srv://admin:Zawl4rwiBmzQ8cv7@aqnit.o1mc6xz.mongodb.net/aquanima?retryWrites=true&w=majority&appName=aqnit', {useNewUrlParser: true, useUnifiedTopology: true});
+}
 
-module.exports = {
-  query: (text, params, callback) => {
-    return pool.query(text, params, callback);
-  },
-};
+
+module.exports = connectDB;

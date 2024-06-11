@@ -1,0 +1,552 @@
+[
+  {
+    "vendorId": "v1",
+    "vendorName": "IBM",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "2106 Borer Avenue",
+      "phone": "598.631.9362",
+      "email": "Javonte17@yahoo.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v2",
+    "vendorName": "Microsoft",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "832 Lourdes Flats",
+      "phone": "1-957-252-9780",
+      "email": "Donald_Maggio@yahoo.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v3",
+    "vendorName": "Salesforce",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "19725 Torp Square",
+      "phone": "(331) 951-0951 x380",
+      "email": "Travis.Feeney@hotmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v4",
+    "vendorName": "Oracle",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "545 Michel Wall",
+      "phone": "479-482-0310 x35977",
+      "email": "Elyssa.Altenwerth46@hotmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v5",
+    "vendorName": "Broadcom",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "0624 Koepp Ways",
+      "phone": "1-405-411-8657 x83351",
+      "email": "Willie_Marks88@hotmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v6",
+    "vendorName": "HP",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "26102 Faustino Crossroad",
+      "phone": "(475) 739-4366",
+      "email": "Jane58@yahoo.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v7",
+    "vendorName": "Appian",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "24953 Juliet Knolls",
+      "phone": "1-381-686-2263",
+      "email": "Kaela.Bogan95@hotmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v8",
+    "vendorName": "ServiceNow",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "652 Magdalena Knoll",
+      "phone": "(505) 742-9037 x3577",
+      "email": "Hector_Bechtelar@hotmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v9",
+    "vendorName": "SAP",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "1627 Linnie Isle",
+      "phone": "399-982-6500",
+      "email": "Gail95@yahoo.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v10",
+    "vendorName": "VMware",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "2466 Heather Vista",
+      "phone": "(556) 620-7602 x47077",
+      "email": "Florine19@hotmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v11",
+    "vendorName": "Cisco",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "921 Mattie Parkways",
+      "phone": "501-823-9825 x319",
+      "email": "Trystan_Kiehn53@yahoo.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v12",
+    "vendorName": "Dell",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "69614 Witting Junction",
+      "phone": "246.958.5649 x7113",
+      "email": "Thaddeus_Gleichner@yahoo.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v13",
+    "vendorName": "Red Hat",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "0103 Laurie Station",
+      "phone": "(957) 806-5572 x177",
+      "email": "Jordi1@hotmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v14",
+    "vendorName": "Adobe",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "6785 Stehr Garden",
+      "phone": "(788) 369-5710 x802",
+      "email": "Leslie_Bernier66@yahoo.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v15",
+    "vendorName": "Symantec",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "882 Frank Fords",
+      "phone": "766-950-6677 x1926",
+      "email": "Marilyne84@hotmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v16",
+    "vendorName": "Splunk",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "3139 Miller Shoals",
+      "phone": "346.519.8376 x086",
+      "email": "Benedict14@yahoo.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v17",
+    "vendorName": "Juniper",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "487 Casimer Ridge",
+      "phone": "398-591-4876 x692",
+      "email": "Sonia5@hotmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v18",
+    "vendorName": "NetApp",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "9299 Ankunding Springs",
+      "phone": "946.948.1674 x21486",
+      "email": "Beth49@yahoo.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v19",
+    "vendorName": "Citrix",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "7594 Claudine Bridge",
+      "phone": "1-527-688-9609 x9366",
+      "email": "Monique33@gmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v20",
+    "vendorName": "F5 Networks",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "22868 Trisha Dam",
+      "phone": "(407) 295-5655 x23515",
+      "email": "Elvie_Kihn97@gmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v21",
+    "vendorName": "Fortinet",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "544 Lavern Walk",
+      "phone": "630.708.5477 x62345",
+      "email": "Paxton_Zemlak14@gmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v22",
+    "vendorName": "FireEye",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "17197 Romaguera Prairie",
+      "phone": "857-393-9430 x7648",
+      "email": "Bennie.Corwin@hotmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v23",
+    "vendorName": "Palo Alto Networks",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "81925 Elouise Square",
+      "phone": "215.206.5066",
+      "email": "Jaqueline.Turner@yahoo.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v24",
+    "vendorName": "IBM",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "952 Mathilde Trail",
+      "phone": "(410) 710-1907 x929",
+      "email": "Orlo.Hartmann15@hotmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v25",
+    "vendorName": "Microsoft",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "3466 Hans Ranch",
+      "phone": "1-363-774-1679",
+      "email": "Tony.Wehner94@hotmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v26",
+    "vendorName": "Salesforce",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "5350 Layne River",
+      "phone": "416-228-4398",
+      "email": "Bret3@yahoo.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v27",
+    "vendorName": "Oracle",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "43567 Feeney Village",
+      "phone": "1-441-423-0970 x49995",
+      "email": "Aurelia65@gmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v28",
+    "vendorName": "Broadcom",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "875 Franecki Parkway",
+      "phone": "1-751-893-5628 x258",
+      "email": "Amara79@hotmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v29",
+    "vendorName": "HP",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "04212 Mills Court",
+      "phone": "(426) 754-6768 x70848",
+      "email": "Ellsworth.Ondricka@yahoo.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v30",
+    "vendorName": "Appian",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "35433 Mosciski Street",
+      "phone": "1-649-778-8193 x9419",
+      "email": "Joy.Doyle34@gmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v31",
+    "vendorName": "ServiceNow",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "862 Rogahn Wells",
+      "phone": "747-272-2560 x4912",
+      "email": "Citlalli_Kemmer14@gmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v32",
+    "vendorName": "SAP",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "301 Rossie Stravenue",
+      "phone": "432-520-9195",
+      "email": "Marilyne64@hotmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v33",
+    "vendorName": "VMware",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "151 Zemlak Streets",
+      "phone": "967.851.4350 x3551",
+      "email": "Ellis_Spencer64@gmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v34",
+    "vendorName": "Cisco",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "5726 Pfannerstill Curve",
+      "phone": "(962) 512-5745 x369",
+      "email": "Aiyana.Wuckert@yahoo.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v35",
+    "vendorName": "Dell",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "83965 Linwood Mountains",
+      "phone": "222.609.5088 x30351",
+      "email": "Jordy_Spinka9@yahoo.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v36",
+    "vendorName": "Red Hat",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "29980 Lubowitz Ridges",
+      "phone": "1-486-637-3767",
+      "email": "Sabrina_Huels86@yahoo.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v37",
+    "vendorName": "Adobe",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "21668 Nathanael Trail",
+      "phone": "659.732.6504 x988",
+      "email": "Tressie.Lind19@hotmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v38",
+    "vendorName": "Symantec",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "77574 Goyette Summit",
+      "phone": "(325) 523-3300 x726",
+      "email": "Alisa_Quitzon38@yahoo.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v39",
+    "vendorName": "Splunk",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "8768 Kelton Port",
+      "phone": "954.690.4901 x990",
+      "email": "Lottie.Hayes64@gmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v40",
+    "vendorName": "Juniper",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "9267 Audreanne Dale",
+      "phone": "(709) 565-0073 x69834",
+      "email": "Hilton_McKenzie@yahoo.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v41",
+    "vendorName": "NetApp",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "31939 Howell Spur",
+      "phone": "441.685.7325",
+      "email": "Thad95@hotmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v42",
+    "vendorName": "Citrix",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "34595 Crona Squares",
+      "phone": "236.591.1972 x1755",
+      "email": "Dominique32@yahoo.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v43",
+    "vendorName": "F5 Networks",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "72843 Heller Island",
+      "phone": "541.328.4719",
+      "email": "Sandra79@gmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v44",
+    "vendorName": "Fortinet",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "715 Howell Groves",
+      "phone": "(640) 882-2536 x558",
+      "email": "Jameson19@yahoo.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v45",
+    "vendorName": "FireEye",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "0036 Maxine Roads",
+      "phone": "206.255.9807 x97460",
+      "email": "Dylan.Mante@gmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v46",
+    "vendorName": "Palo Alto Networks",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "5849 Ritchie Shoal",
+      "phone": "226.274.8972 x9631",
+      "email": "Francisca56@hotmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v47",
+    "vendorName": "IBM",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "45621 Strosin View",
+      "phone": "944-820-3829 x9206",
+      "email": "Devante.Weissnat@hotmail.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v48",
+    "vendorName": "Microsoft",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "778 Eddie Pines",
+      "phone": "(905) 503-7348 x41524",
+      "email": "Sandra.Treutel@yahoo.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v49",
+    "vendorName": "Salesforce",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "7113 Daniel Forge",
+      "phone": "521.526.2704 x9591",
+      "email": "Ed_Haag30@yahoo.com",
+      "role": "Sales Manager"
+    }
+  },
+  {
+    "vendorId": "v50",
+    "vendorName": "Oracle",
+    "vendorType": "IT",
+    "contactInformation": {
+      "address": "40180 Carolina Crossroad",
+      "phone": "1-200-884-9885 x375",
+      "email": "Albertha18@hotmail.com",
+      "role": "Sales Manager"
+    }
+  }
+]

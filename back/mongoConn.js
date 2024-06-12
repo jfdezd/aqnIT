@@ -20,7 +20,7 @@ const VendorSchema = new Schema({
 const Vendor = mongoose.model('Vendor', VendorSchema);
 
 // Connect to MongoDB
-mongoose.connect('mongodb+srv://admin:Zawl4rwiBmzQ8cv7@aqnit.o1mc6xz.mongodb.net/aquanima?retryWrites=true&w=majority&appName=aqnit', {useNewUrlParser: true, useUnifiedTopology: true});
+mongoose.connect('mongodb+srv://@aqnit.o1mc6xz.mongodb.net/aquanima?retryWrites=true&w=majority&appName=aqnit', {useNewUrlParser: true, useUnifiedTopology: true});
 
 const vendorData = {
     vendorId: 'v51',

@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const port = 3001;
-const db = require('./db');
+const db = require('./utils/db');
 
 app.get('/', (req, res) => {
   res.send('Hello World!')

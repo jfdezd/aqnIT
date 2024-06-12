@@ -1,7 +1,6 @@
 {
   "name": "back",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,5 +16,7 @@
     "mongoose": "^8.4.1",
     "mongose": "^0.0.2-security",
     "pg": "^8.11.5"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }

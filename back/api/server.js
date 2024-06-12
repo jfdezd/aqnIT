@@ -1,8 +1,8 @@
 // server.js
 const express = require('express');
 const cors = require('cors');
-const connectDB = require('./db');
-const { getAllVendors } = require('./vendor');
+const connectDB = require('../db');
+const { getAllVendors } = require('../vendor');
 
 const app = express();
 const port = 3001;

@@ -5,7 +5,8 @@ function App() {
   const [vendors, setVendors] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:3001/vendors')
+  fetch(`${process.env.REACT_APP_API_URL}`)
+  //fetch('http://localhost:3001/vendors')
       .then(response => response.json())
       .then(data => setVendors(data))
       .catch(err => console.error(err));

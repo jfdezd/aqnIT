@@ -5,6 +5,8 @@ node_modules
 /.pnp
 .pnp.js
 
+#certs
+certs
 # testing
 /coverage
 

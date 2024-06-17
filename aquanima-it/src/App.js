@@ -1,33 +1,24 @@
 // App.js
 import React, { useEffect, useState } from 'react';
+import Login from './Login'; // Import the Login component
 
 function App() {
   const [vendors, setVendors] = useState([]);
 
+  console.log(process.env.REACT_APP_API_URL);
   useEffect(() => {
   fetch(`${process.env.REACT_APP_API_URL}`)
-  //fetch('http://localhost:3001/vendors')
       .then(response => response.json())
       .then(data => setVendors(data))
       .catch(err => console.error(err));
   }, []);
 
-  return (
+
+
+  return (  
     <div>
       <h1>Login</h1>
-      <div id="g_id_onload"
-          data-client_id="746409138875-cpd7609pif31hrvsllsrasbti82md9f6.apps.googleusercontent.com" 
-          data-login_uri="http://localhost:3000"
-          data-auto_prompt="false">
-      </div>
-      <div className="g_id_signin"
-          data-type="standard"
-          data-size="large"
-          data-theme="outline"
-          data-text="sign_in_with"
-          data-shape="rectangular"
-          data-logo_alignment="left">
-      </div>
+      <Login /> {/* Use the Login component */}
       <h1>Vendors</h1>
         {vendors.map(vendor => (
         <div key={vendor.vendorId}>

@@ -6,8 +6,9 @@ const { getAllVendors, getVendor } = require('../models/vendor');
 const app = express();
 
 // Enable CORS for all requests
-app.use(cors());
-
+app.use(cors({
+  origin: ['https://aquanima-it.vercel.app', 'http://localhost:3000']
+}));
 // Define your routes as usual
 app.get('/vendors', (req, res) => {
   getAllVendors()
